@@ -1,0 +1,62 @@
+#carouselExample .carousel-inner {
+  align-items: center;
+  padding-left: 37%;
+  background-color: gray;
+}
+#carouselExample .img {
+  width: 250px;
+}
+#carouselExample .carousel-control-prev, #carouselExample .carousel-control-next {
+  background-color: black;
+  width: 300px;
+}
+#carouselExample .carousel-item {
+  padding: 100px;
+  align-items: center;
+}
+
+#carousel-item {
+  width: 30px;
+  align-items: center;
+}
+
+.body {
+  background-color: black;
+}
+
+.textoarriba {
+  text-align: center;
+  background-color: beige;
+  padding: 100px;
+}
+
+#Galeria img {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+#Galeria .col-lg-4 {
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#carousel-indicator-hit-area- {
+  height: 400px;
+}
+
+#poster {
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
+
+/*# sourceMappingURL=custom.css.map */
